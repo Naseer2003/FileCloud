@@ -2,6 +2,7 @@
 
 ![Dezign Shark Dashboard](./assets/dezignshark.jpg)
 
+## deployment url - https://filecloud-zadq.onrender.com
 
 A full-stack file manager where users can:
 
